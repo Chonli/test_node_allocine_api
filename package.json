@@ -4,6 +4,8 @@
     "dependencies": {
         "allocine-api": "^0.1.9",
         "express": "^4.16.2",
-        "http": "0.0.0"
+        "http": "0.0.0",
+        "node-json2html": "^1.1.1"
     }
 }
+
