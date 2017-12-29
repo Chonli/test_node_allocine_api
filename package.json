@@ -1,0 +1,9 @@
+{
+    "name": "test-db-movies-api",
+    "version": "0.0.1",
+    "dependencies": {
+        "allocine-api": "^0.1.9",
+        "express": "^4.16.2",
+        "http": "0.0.0"
+    }
+}
